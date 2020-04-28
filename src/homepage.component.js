@@ -7,31 +7,31 @@ const HomePage = () => (
       <div className="menu-item">
         <div className="content">
           <h1 className="title">Hats</h1>
-          <spam className="subtitle">Shop Now!</spam>
+          <spam className="subtitle">Shop Now</spam>
         </div>
       </div>
       <div className="menu-item">
         <div className="content">
           <h1 className="title">Jackets</h1>
-          <spam className="subtitle">Shop Now!</spam>
+          <spam className="subtitle">Shop Now</spam>
         </div>
       </div>
       <div className="menu-item">
         <div className="content">
           <h1 className="title">Womens</h1>
-          <spam className="subtitle">Shop Now!</spam>
+          <spam className="subtitle">Shop Now</spam>
         </div>
       </div>
       <div className="menu-item">
         <div className="content">
           <h1 className="title">Mens</h1>
-          <spam className="subtitle">Shop Now!</spam>
+          <spam className="subtitle">Shop Now</spam>
         </div>
       </div>
       <div className="menu-item">
         <div className="content">
           <h1 className="title">Jackets</h1>
-          <spam className="subtitle">Shop Now!</spam>
+          <spam className="subtitle">Shop Now</spam>
         </div>
       </div>
     </div>
